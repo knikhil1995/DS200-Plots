@@ -24,4 +24,4 @@ We see that total rainfall in India peaks during the month of July.
 Source- Himachal Pradesh State Project Director SSA
 
 
-We see that most districts in Himachal Pradesh have a lower fraction of middle shool students.
+We see that most districts in Himachal Pradesh have a lower fraction of middle school students.
